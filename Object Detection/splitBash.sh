@@ -1,0 +1,1 @@
+split-image $1 20 20
